@@ -13,7 +13,7 @@
 * React
 * SQL
 * Python
-* GO
+* React Native
 
 
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py)](https://skillicons.dev) 
