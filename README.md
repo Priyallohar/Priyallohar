@@ -22,7 +22,7 @@
 ---
 
 ### WORK EXPERIENCE
-* Frontend Developer - Ksec AI(Nov2023 - Present)
+* Frontend Developer - Sttor AI(Nov2023 - Present)
 * Data Assurance - PWC(Sep2022 - Jan2023)
 * Data Enginner - Ridgeant Technology(Jun2022 - Sep2022)
 * IRA - Biomatrix(Feb2020-March2020)
