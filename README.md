@@ -1,7 +1,7 @@
 # Hi, I am Priyal Lohar 👋
   
 
-* I am self taught frontend developer from **india**.
+* I'm frontend developer from **india**.
 
 ---
 
@@ -14,6 +14,7 @@
 * SQL
 * Python
 * React Native
+  
 
 
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py)](https://skillicons.dev) 
